@@ -29,4 +29,4 @@ This is a weather dashboard that uses server side APIs that completes the follow
 ## Link to deployed application
 
 
-[Here is a link to my deployed code](https://wmerrill01.github.io/codequiz/)
+[Here is a link to my deployed code](https://wmerrill01.github.io/weatherdashboard/)
