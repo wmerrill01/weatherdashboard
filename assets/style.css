@@ -1,0 +1,19 @@
+* {
+    padding: 3px;
+    margin: none;
+    box-sizing: border-box;
+}
+
+.uvfavorable {
+    background-color: green;
+}
+.uvmoderate {
+    background-color: orange;
+}
+.uvsevere {
+    background-color: red;
+}
+.list-group-item {
+    background-color: lightblue;
+    margin-top: 5px;
+}
